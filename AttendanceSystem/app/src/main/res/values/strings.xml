@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attendance System</string>
+    <string name="button">Button</string>
+    <string name="give_attendance">Give Attendance</string>
+    <string name="check_attendance">Check Attendance</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_student_tries">student_tries</string>
+</resources>
